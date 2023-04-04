@@ -9,9 +9,9 @@
 ### LinkedIn: www.linkedin.com/in/lauryn-repp
 
 # Click Here to Read About My Internship Experience: 
-[Internship Experience PwC](Internship%20Experience.md)
+[Internship Experience](Internship%20Experience.md)
 
-# Coursework:
+# Click Here to Read and View My Applicable Coursework:
 ## Barry's Database 
 ### - Spent three quarters designing, creating, and making my database functional 
 ### - This database holds reservation data for Barry's Bootcamp, a worldwide group fitness class chain
