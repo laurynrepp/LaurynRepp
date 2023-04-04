@@ -8,6 +8,8 @@
 ### Phone: 847-508-2841
 ### LinkedIn: www.linkedin.com/in/lauryn-repp
 
+# About Me: 
+
 # Click Here to Read About My Internship Experience: 
 [Internship Experience](Internship%20Experience.md)
 
