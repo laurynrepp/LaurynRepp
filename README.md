@@ -23,7 +23,5 @@
 [Lacrosse](Lacrosse.md)
                                                                                                                                       
 ## Click Here to Read About My International Experience:
-### Though I was unable to travel abroad due to lacrosse, I still had multiple international experiences at DU and beyond. 
-### - My Granny is an immigrant from Scotland 
-### - Multiple teammates from Canada 
-### - Took International Marketing to fulfill my international credit. 
+[International Experience](International.md)
+
