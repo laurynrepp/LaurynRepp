@@ -10,18 +10,18 @@
 
 # About Me: 
 
-## Read More About My Internship Experience: 
-[Internship Experience](Internship%20Experience.md)
+## Read More About My Lacrosse Experience:   
+[Lacrosse](Lacrosse.md)
+
+## Read More About My Community Service: 
+[Community Service](Community%20Service.md)
+                                                                                                                                    
+## Read More About My International Experience:
+[International Experience](International.md)
 
 ## Click Here to Read and View My Applicable Coursework:
 [Coursework](Coursework.md)
 
-## Read More About My Community Service: 
-[Community Service](Community%20Service.md)
-
-## Read More About My Lacrosse Experience:   
-[Lacrosse](Lacrosse.md)
-                                                                                                                                      
-## Read More About My International Experience:
-[International Experience](International.md)
+## Read More About My Internship Experience: 
+[Internship Experience](Internship%20Experience.md)
 
