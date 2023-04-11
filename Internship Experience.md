@@ -1,4 +1,6 @@
 # Internship Experience PwC: 
+#### Below is a decription of the work I completed while interning at PriceWaterhouseCoopers (PwC). I am very grateful that PwC gave me a return offer and I will be working in their Chicago office post graduation! I learned so much during my intern experience and can't wait to continue learning from such a prestigious company. 
+
 ## Data and Technology Intern within the Digital Assurance and Transparency Group
 ### - Completed risk, actions, issues, and decision log analysis 
 ### - Created interview agendas to guide and organize discussions with clients
