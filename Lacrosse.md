@@ -1,4 +1,5 @@
 ## Denver Lacrosse:
+#### Lacrosse has played a huge role in my experience at the University of Denver. In season lacrosse takes up 20 hours of my week, not including travel, and out of season it is a commitment of 8 hours. Being a collegiate athlete has taught me time management, leadership, and work ethic skills that I don't think I would have gained otherwise. I have formed friendships and relationships that will last a lifetime. 
 ### - Four year member of the Women's Division 1 Lacrosse Team 
 ### - Back to Back Conference Champions 
 ### - Two NCAA tournament appearances 
