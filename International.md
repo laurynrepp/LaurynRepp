@@ -1,5 +1,5 @@
 ## International Experience:
-### Though I was unable to travel abroad due to lacrosse, I still had multiple international experiences at DU and beyond. 
+#### Though I was unable to travel abroad due to lacrosse, I still had multiple international experiences at DU and beyond. I hope to gain more international experience by traveling post graduation. 
 ### - My Granny is an immigrant from Scotland 
 ### - Multiple teammates from Canada 
 ### - Took International Marketing to fulfill my international credit. 
