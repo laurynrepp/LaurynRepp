@@ -1,4 +1,5 @@
 # Community Service: 
+#### Below are three examples of the community service I participated in and continue to participate in at the University of Denver. I am lucky that my lacrosse team views community service as a priority because it allows me to not only help my community but do so with friends. I have thoroughly enjoyed participating in the below activities and will continue to make them a priority in my life. 
 ## Denver Rescue Mission 
 ### - Prepared dinner for Denver Rescue at least twice a year
 <img width="350" alt="image" src="https://user-images.githubusercontent.com/76794426/228342287-9f81131c-e2c5-4dcc-ba69-7232fac34ee3.png">
