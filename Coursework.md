@@ -1,3 +1,5 @@
+
+#### Below are two examples of projects I completed in the Business Information and Analytics department. My Barry's Database took three quarters to complete; each quarter embodied a different aspect of creating, publishing, and making a database interactive. Though the data is fictitious, Barry's is a real company whose workout classes I take daily. The second project included on this page is an Alteryx workflow of Steam Reviews for my Complex Data Analytics course. 
 ## Barry's Database 
 ### - Spent three quarters designing, creating, and making my database functional 
 ### - This database holds reservation data for Barry's Bootcamp, a worldwide group fitness class chain
